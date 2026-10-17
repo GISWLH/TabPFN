@@ -1,3 +1,7 @@
+<!-- readme-visual-refresh:banner -->
+![TabPFN — hand-drawn project banner](assets/readme/banner.svg)
+<!-- /readme-visual-refresh:banner -->
+
 # TabPFN
 
 [![PyPI version](https://badge.fury.io/py/tabpfn.svg)](https://badge.fury.io/py/tabpfn)
@@ -151,3 +155,20 @@ pytest tests/
 ---
 
 Built with ❤️ by [Prior Labs](https://priorlabs.ai) - Copyright (c) 2025 Prior Labs GmbH
+
+<!-- readme-visual-refresh:artwork-source -->
+[Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
+<!-- /readme-visual-refresh:artwork-source -->
+
+
+<!-- readme-visual-refresh:result -->
+## Saved project output
+
+![Existing local demo comparing classification ROC AUC with three-fold cross-validation.](assets/readme/result.png)
+
+Existing local demo comparing classification ROC AUC with three-fold cross-validation.
+
+Historical project output, retained from the existing working files; it was not rerun for this documentation update. The saved output may reflect an earlier notebook/data state.
+
+Source: `examples/notebooks/TabPFN_Demo_Local.ipynb [zero-based cell 14, output 2]`.
+<!-- /readme-visual-refresh:result -->
